@@ -1,0 +1,34 @@
+---
+
+Employees:
+
+  - Emp-Name: Omkar V. Mandawale
+    Emp-Designation: Team Lead
+    Emp-Age: 28
+    Payslip:
+
+     - Month: April'2019
+       Wage: 45000
+
+     - Month: May'2019
+       Wage: 47000
+
+     - Month: June'2019
+       Wage: 45000
+
+
+  - Emp-Name: Riddhi O. Mandawale
+    Emp-Designation: Team Lead
+    Emp-Age: 26
+    Payslip:
+
+     - Month: April'2019
+       Wage: 45000
+
+     - Month: May'2019
+       Wage: 45000
+
+     - Month: June'2019
+       Wage: 45000
+
+...

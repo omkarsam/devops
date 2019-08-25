@@ -1,0 +1,26 @@
+---
+
+Fruits:
+
+   Apple:
+     
+     - Protein: 110
+     - Carbohydrates: 50
+     - Vitamines: 35
+
+
+   Banana: 
+
+     - Protein: 10
+     - Carbohydrates: 70
+     - Calcium: 35
+     - Phosphate: 65
+
+   Orange:
+
+     - Protein: 10
+     - Carbohydrates: 70
+     - Calcium: 35
+     - Phosphate: 65
+
+...  
